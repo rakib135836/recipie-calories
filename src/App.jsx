@@ -1,5 +1,6 @@
 
-import './App.css'
+
+import Head from './components/Header/Head'
 
 
 
@@ -9,7 +10,7 @@ function App() {
   return (
     <>
       
-    
+    <Head></Head>
      
     </>
   )

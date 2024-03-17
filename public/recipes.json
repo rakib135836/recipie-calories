@@ -1,0 +1,101 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co/QP9zzzC/sebastian-coman-photography-m-Vw-Qrsnnb-Hg-unsplash.jpg",
+      "short_description": "Classic Italian pasta dish with creamy sauce",
+      "ingredients": [
+        "300g spaghetti",
+        "150g pancetta or bacon",
+        "3 large eggs",
+        "75g grated Parmesan cheese",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "20 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Stir Fry",
+      "recipe_image": "https://i.ibb.co/G7wgSP5/tyson-i-XA1-EBi-Orao-unsplash.jpg",
+      "short_description": "Quick and healthy Asian-inspired dish",
+      "ingredients": [
+        "500g chicken breast, sliced",
+        "2 bell peppers, sliced",
+        "1 onion, sliced",
+        "150g broccoli florets",
+        "3 tbsp soy sauce",
+        "2 cloves garlic, minced",
+        "1 tbsp ginger, grated"
+      ],
+      "preparing_time": "25 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.ibb.co/Kjk0Mh5/bryony-elena-d-JGe-ISqe-Eiw-unsplash.jpg",
+      "short_description": "Simple and refreshing Italian salad",
+      "ingredients": [
+        "2 large tomatoes",
+        "200g fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "2 tbsp extra virgin olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "10 min",
+      "calories": "220 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.ibb.co/C8DKM0T/andy-hay-ZN-TT10kf4o-unsplash.jpg",
+      "short_description": "Flavorful and spicy vegetarian curry",
+      "ingredients": [
+        "1 large onion, chopped",
+        "2 carrots, diced",
+        "1 bell pepper, chopped",
+        "200g cauliflower florets",
+        "400ml coconut milk",
+        "2 tbsp curry powder",
+        "2 cloves garlic, minced",
+        "1 tbsp ginger, grated"
+      ],
+      "preparing_time": "30 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.ibb.co/V3NSLmW/ca-creative-bp-PTl-XWTOvg-unsplash.jpg",
+      "short_description": "Healthy and delicious seafood option",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "15 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://i.ibb.co/98HspXP/charlesdeluvio-Us-Sd-MZ78-Q3-E-unsplash.jpg",
+      "short_description": "Classic homemade cookies for dessert",
+      "ingredients": [
+        "200g unsalted butter, softened",
+        "200g brown sugar",
+        "100g granulated sugar",
+        "2 large eggs",
+        "1 tsp vanilla extract",
+        "300g all-purpose flour",
+        "1 tsp baking soda",
+        "200g chocolate chips"
+      ],
+      "preparing_time": "40 min",
+      "calories": "200 calories"
+    }
+  ]
+  
