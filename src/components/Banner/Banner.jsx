@@ -2,7 +2,7 @@
 import backgroundImage from '../../assets/banner.jpg';
 const Banner = () => {
     return (
-        <div className="bg-cover bg-center p-28 text-center rounded-2xl" style={{ backgroundImage: `url(${backgroundImage})` }}>
+        <div className="bg-cover bg-center p-28 text-center rounded-2xl  mb-24" style={{ backgroundImage: `url(${backgroundImage})` }}>
 
 
             <h1 className='text-6xl text-white font-bold p-4'>Discover an exceptional cooking <br />
