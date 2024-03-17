@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
+import Recipe from "../Recipe/Recipe";
 
 
 const Recipes = () => {
@@ -13,6 +14,9 @@ const Recipes = () => {
     return (
         <div className="w-full lg:w-2/3">
             <p>recipe {recipes.length}</p>
+            {
+                recipes.map(recipe=><Recipe key={recipe.recipe_id} recipe={recipe}></Recipe>)
+            }
         </div>
     );
 };
